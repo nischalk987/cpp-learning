@@ -25,7 +25,8 @@ int main () {
     //double
     double weight = 55.9999999;
     //boolean
-    bool is
+    bool isMale = true;
+    bool 
     
 
     return 0;
