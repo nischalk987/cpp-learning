@@ -10,6 +10,6 @@ int main () {
     cout << "Enter your age: " << endl;
 
     cin >> age;
-    
+    cout 
 
 }
