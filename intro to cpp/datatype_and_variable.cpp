@@ -33,8 +33,8 @@ int main () {
     cout << count << endl ;
     cout << share << endl ;
     cout << alphabet << endl ;
-    cout << count << endl ;
-    cout << count << endl ;
+    cout << weight << endl ;
+    cout << isMale << endl ;
 
     
 
