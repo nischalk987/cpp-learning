@@ -1,4 +1,4 @@
 int main() {
 
-    cout 
+    cout << "My Nmae "
 }
