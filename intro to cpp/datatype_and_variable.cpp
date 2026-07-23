@@ -11,6 +11,10 @@ int main () {
     // int age;
     // cout << age;
 
+    //manpulation or updation 
+
+    
+
 
 
     return 0;
