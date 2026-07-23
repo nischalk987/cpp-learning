@@ -11,6 +11,7 @@ int main () {
     // Declertion
 
     int age;
+    cout << age;
     
 
     return 0;
