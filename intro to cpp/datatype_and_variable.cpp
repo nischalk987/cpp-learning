@@ -31,7 +31,10 @@ int main () {
     bool isGril = 0;
 
     cout << count << endl ;
-    
+    cout << count << endl ;
+    out << count << endl ;
+    out << count << endl ;
+
     
 
     return 0;
