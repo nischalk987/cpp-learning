@@ -3,5 +3,8 @@ using namespace std;
 
 int main () {
 
-    
+    //variable decleration
+
+    int age = 18;
+    cout << 
 }
