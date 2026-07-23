@@ -30,7 +30,8 @@ int main () {
     bool isFemale = false;
     bool isGril = 0;
 
-    cout << count 
+    cout << count << endl ;
+    
     
 
     return 0;
