@@ -12,13 +12,3 @@ int main() {
 
     return 0;
 }
-
-//homework
-#include <iostream>
-
-int main1()
-{
-    std::cout << "Hello, World!\n";
-
-    return -1;
-}
