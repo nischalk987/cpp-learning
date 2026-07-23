@@ -17,7 +17,9 @@ int main () {
     // cout << age << endl ; 
 
     //int
-    
+    int count = 5;
+    //float 
+    int 
     
 
     return 0;
