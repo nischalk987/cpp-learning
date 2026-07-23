@@ -31,8 +31,8 @@ int main () {
     bool isGril = 0;
 
     cout << count << endl ;
-    cout << count << endl ;
-    cout << count << endl ;
+    cout << share << endl ;
+    cout << alphabet << endl ;
     cout << count << endl ;
     cout << count << endl ;
 
