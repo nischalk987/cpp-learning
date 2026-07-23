@@ -39,9 +39,9 @@ int main () {
     // cout << isFemale << endl ;
     // cout << isGril << endl ;
 
-    //size of memory 
-    int age =12;
-    cout << sizeof (age) << endl ;
+    // //size of memory 
+    // int age =12;
+    // cout << sizeof (age) << endl ;
 
 
     return 0;
