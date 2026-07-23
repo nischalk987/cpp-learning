@@ -9,11 +9,9 @@ int main () {
     // cout << "My Age is: " << age << endl;
 
     // Declertion
-
     // int age;
     // cout << age;
 
-    //defination
 
 
     return 0;
