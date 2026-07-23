@@ -40,7 +40,7 @@ int main () {
     // cout << isGril << endl ;
 
     int age =12;
-    cout
+    cout << sizeof ()
 
 
     return 0;
