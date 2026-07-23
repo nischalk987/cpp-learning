@@ -19,7 +19,7 @@ int main () {
     //int
     int count = 5;
     //float 
-    int 
+    int share = 3.14
     
 
     return 0;
