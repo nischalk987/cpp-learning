@@ -8,7 +8,7 @@ int main() {
     //cout - keyword for output / printing
     // << - to print something 
     // "" - String 
-    // endl 
+    // endl - newline 
 
     return 0;
 }
