@@ -10,7 +10,8 @@ int main () {
 
     // Declertion
 
-    int age'
+    int age;
+    
 
     return 0;
 }
