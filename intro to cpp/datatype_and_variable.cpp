@@ -6,5 +6,5 @@ int main () {
     //variable decleration
 
     int age = 18;
-    cout << 
+    cout << "My Age is "
 }
