@@ -14,10 +14,8 @@ int main () {
     //manpulation or updation 
 
     age = 101;
-    cout << age << endl ;
+    cout << age << endl ; 
     
-
-
 
     return 0;
 }
