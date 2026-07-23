@@ -21,7 +21,8 @@ int main () {
     //float 
     int share = 3.14;
     //char
-    char 
+    char alphabet = 'z';
+    
     
 
     return 0;
