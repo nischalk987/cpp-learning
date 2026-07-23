@@ -5,6 +5,6 @@ using namespace std; // standard namespace
 int main() {
 
     cout << "My Name : Nischal.k" << endl; //cout - keyword for output / printing
-    // << - to []
+    // << - to print something 
     return 0;
 }
