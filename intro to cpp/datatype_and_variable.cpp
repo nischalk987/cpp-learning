@@ -39,7 +39,6 @@ int main () {
     cout << isFemale << endl ;
     cout << isGril << endl ;
 
-    
 
     return 0;
 }
