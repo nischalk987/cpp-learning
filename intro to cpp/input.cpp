@@ -12,4 +12,6 @@ int main () {
     cin >> age;
     cout << "your age : " <<  age << endl; 
 
+    return 0;
+
 }
