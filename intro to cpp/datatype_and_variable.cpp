@@ -43,6 +43,8 @@ int main () {
     // int age =12;
     // cout << sizeof (age) << endl ;
 
+    int age 
+
 
     return 0;
 }
