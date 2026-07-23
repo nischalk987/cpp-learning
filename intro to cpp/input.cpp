@@ -1,1 +1,3 @@
 //cout - output 
+//cin - input
+
