@@ -6,6 +6,8 @@ using namespace std;
 
 int main () {
 
-    int age
+    int age;
+    cout << "Enter your age: " << endl;
+    
 
 }
