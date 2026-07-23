@@ -1,4 +1,4 @@
 int main() {
 
-    cout << "My Nmae "
+    cout << "My Name : Nischal.k" << 
 }
