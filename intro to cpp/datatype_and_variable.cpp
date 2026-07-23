@@ -27,7 +27,9 @@ int main () {
     //boolean
     bool isMale = true;
     bool isChild = 1;
-    bool isFemale = 
+    bool isFemale = false;
+    bool isGril = 0;
+    
     
 
     return 0;
