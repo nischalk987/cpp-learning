@@ -13,6 +13,8 @@ int main () {
 
     //manpulation or updation 
 
+    age = 101;
+    
     
 
 
