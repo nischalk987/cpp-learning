@@ -40,7 +40,6 @@ int main () {
     // cout << isGril << endl ;
 
     //size of memory 
-
     int age =12;
     cout << sizeof (age) << endl ;
 
