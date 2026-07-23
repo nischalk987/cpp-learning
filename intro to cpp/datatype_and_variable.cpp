@@ -39,6 +39,8 @@ int main () {
     // cout << isFemale << endl ;
     // cout << isGril << endl ;
 
+    
+
     int age =12;
     cout << sizeof (age) << endl ;
 
