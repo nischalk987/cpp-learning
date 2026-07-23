@@ -32,8 +32,9 @@ int main () {
 
     cout << count << endl ;
     cout << count << endl ;
-    out << count << endl ;
-    out << count << endl ;
+    cout << count << endl ;
+    cout << count << endl ;
+    cout << count << endl ;
 
     
 
