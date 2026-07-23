@@ -10,9 +10,11 @@ int main () {
 
     // Declertion
 
-    int age;
-    cout << age;
+    // int age;
+    // cout << age;
+
     
+
 
     return 0;
 }
