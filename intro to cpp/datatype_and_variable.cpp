@@ -23,6 +23,7 @@ int main () {
     //char
     char alphabet = 'z';
     //double
+    double weight = 55.9999999;
     
     
 
