@@ -8,5 +8,9 @@ int main () {
     // int age = 18;
     // cout << "My Age is: " << age << endl;
 
+    // Declertion
+
+    int age'
+
     return 0;
 }
