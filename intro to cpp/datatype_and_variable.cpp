@@ -24,7 +24,8 @@ int main () {
     char alphabet = 'z';
     //double
     double weight = 55.9999999;
-    
+    //boolean
+    bool is
     
 
     return 0;
