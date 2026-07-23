@@ -35,7 +35,8 @@ int main () {
     cout << alphabet << endl ;
     cout << weight << endl ;
     cout << isMale << endl ;
-    cout << is << endl ;
+    cout << isChild << endl ;
+    cout << count << endl ;
 
     
 
