@@ -29,7 +29,8 @@ int main () {
     bool isChild = 1;
     bool isFemale = false;
     bool isGril = 0;
-    
+
+    cout << count 
     
 
     return 0;
