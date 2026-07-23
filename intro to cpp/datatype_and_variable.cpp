@@ -22,6 +22,7 @@ int main () {
     int share = 3.14;
     //char
     char alphabet = 'z';
+    //double
     
     
 
