@@ -9,7 +9,7 @@ int main(){
     cin >> budget ;
 
     if(budget > 2000000) {
-        cout << "You can buy "
+        cout << "You can buy scropio" << endl ;
     }
 
 }
