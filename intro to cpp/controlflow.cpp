@@ -28,8 +28,9 @@ int main(){
         cout << "B" << endl;
     }
     else if(marks > 70){
-        c
+        cout << "C" << endl ;
     }
+    else id
 
 
     
