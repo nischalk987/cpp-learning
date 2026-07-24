@@ -21,6 +21,8 @@ int main(){
     //if-else if block 
 
     int marks;
+    
+    
     if (marks > 90 ) {
         cout << "A" << endl;
     }
