@@ -41,7 +41,8 @@ int main(){
     //     cout << "F" << endl;
     // }
 
-    int height
+    int height;
+    cout << "Enter your height "
 
 
     
