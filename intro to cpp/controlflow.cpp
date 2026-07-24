@@ -20,26 +20,28 @@ int main(){
 
     //if-else if block 
 
-    int marks;
+    // int marks;
     
-    cout << "Enter yout marks : " << endl;
-    cin >> marks;
+    // cout << "Enter yout marks : " << endl;
+    // cin >> marks;
     
-    if (marks > 90 ) {
-        cout << "A" << endl;
-    }
-    else if(marks > 80) {
-        cout << "B" << endl;
-    }
-    else if(marks > 70){
-        cout << "C" << endl ;
-    }
-    else if(marks > 60 ){
-        cout << "D" << endl;
-    }
-    else {
-        cout << "F" << endl;
-    }
+    // if (marks > 90 ) {
+    //     cout << "A" << endl;
+    // }
+    // else if(marks > 80) {
+    //     cout << "B" << endl;
+    // }
+    // else if(marks > 70){
+    //     cout << "C" << endl ;
+    // }
+    // else if(marks > 60 ){
+    //     cout << "D" << endl;
+    // }
+    // else {
+    //     cout << "F" << endl;
+    // }
+
+    
 
 
     
