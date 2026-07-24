@@ -9,7 +9,7 @@ int main() {
 
     switch (grade)
     {
-    case constant expression:
+    case 'A:
         /* code */
         break;
     
