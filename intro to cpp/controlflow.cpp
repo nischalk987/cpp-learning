@@ -25,7 +25,6 @@ int main(){
     cout << "Enter yout marks : " << endl;
     cin >> marks;
     
-
     if (marks > 90 ) {
         cout << "A" << endl;
     }
