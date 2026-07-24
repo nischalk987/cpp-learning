@@ -1,2 +1,8 @@
 #include<iostream>
-using names
+using namespace std;
+
+int main(){
+
+    
+
+}
