@@ -12,7 +12,9 @@ int main(){
         cout << "You can buy scropio" << endl ;
 
     }
-    
+    else {
+        cout<<""
+    }
     
     return 0 ;
 
