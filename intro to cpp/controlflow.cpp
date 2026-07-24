@@ -20,7 +20,7 @@ int main(){
 
     //if-else if block 
 
-    int marks = 55 ;
+    int marks = 88 ;
     if (marks > 90 ) {
         cout << "A" << endl;
     }
