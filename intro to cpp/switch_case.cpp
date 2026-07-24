@@ -5,7 +5,7 @@ int main() {
 
     char grade;
     cout << "Enter your Grade : " << endl;
-    
+    cin >> grade;
 
     switch (grade)
     {
