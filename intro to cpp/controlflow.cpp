@@ -60,7 +60,7 @@ int main(){
         }
     }
     else {
-        
+        cout << "DO some workout "
     }
 
 
