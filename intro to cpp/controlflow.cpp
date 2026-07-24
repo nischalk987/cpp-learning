@@ -51,7 +51,10 @@ int main(){
 
     if (height > 5) {
 
-        if(we)
+        if(weight > 70) {
+
+            
+        }
     }
 
 
