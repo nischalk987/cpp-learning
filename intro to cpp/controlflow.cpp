@@ -13,7 +13,7 @@ int main(){
 
     }
     else {
-        cout<<""
+        cout << "you can't buy scropio" << endl; 
     }
     
     return 0 ;
