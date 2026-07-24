@@ -53,7 +53,10 @@ int main(){
 
         if(weight > 70) {
 
-            cout << "You got a good BMI"
+            cout << "You got a good BMI" << endl;
+        }
+        else {
+            cout
         }
     }
 
