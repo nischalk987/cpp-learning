@@ -3,7 +3,7 @@ using namespace std ;
 
 int main() {
 
-    switch (gra)
+    switch (grade)
     {
     case constant expression:
         /* code */
