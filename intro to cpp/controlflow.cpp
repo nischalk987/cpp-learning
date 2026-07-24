@@ -49,7 +49,10 @@ int main(){
     cout << "Enter your weight in kg : " << endl;
     cin >> weight;
 
-    
+    if (height > 5) {
+
+        if(we)
+    }
 
 
 
