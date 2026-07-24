@@ -33,6 +33,9 @@ int main(){
     else if(marks > 60 ){
         cout << "D" << endl;
     }
+    else {
+        cout << "F"
+    }
 
 
     
