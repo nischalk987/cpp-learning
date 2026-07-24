@@ -4,7 +4,8 @@ using namespace std ;
 int main() {
 
     char grade;
-    cout << "Enter your Grade "
+    cout << "Enter your Grade : " << endl;
+    
 
     switch (grade)
     {
