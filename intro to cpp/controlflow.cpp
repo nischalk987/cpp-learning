@@ -4,6 +4,8 @@ using namespace std;
 int main(){
 
     int budget;
-    cout << "Enter your budget "
+    cout << "Enter your budget : " << endl;
+
+    
 
 }
