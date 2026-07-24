@@ -47,7 +47,9 @@ int main(){
 
     int weight;
     cout << "Enter your weight in kg : " << endl;
-    cin >> height;
+    cin >> weight;
+
+    
 
 
 
