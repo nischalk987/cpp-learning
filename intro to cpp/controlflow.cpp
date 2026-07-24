@@ -10,6 +10,7 @@ int main(){
 
     if(budget > 2000000) {
         cout << "You can buy scropio" << endl ;
+        
     }
 
 }
