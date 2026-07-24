@@ -18,6 +18,7 @@ int main(){
     //     cout << "you can't buy scropio" << endl; 
     // }
 
+    //if-else if block 
     
 
 
