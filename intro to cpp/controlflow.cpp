@@ -24,7 +24,7 @@ int main(){
     if (marks > 90 ) {
         cout << "A" << endl;
     }
-    else
+    else if(marks > 80)
 
 
     
