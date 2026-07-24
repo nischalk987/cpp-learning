@@ -42,7 +42,8 @@ int main(){
     // }
 
     int height;
-    cout << "Enter your height "
+    cout << "Enter your height in feet : " << endl;
+    
 
 
     
