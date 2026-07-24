@@ -22,7 +22,7 @@ int main(){
 
     int marks;
     
-    cout << "Enter yout marks : " << endl;
+    cout << "Enter yout marks : " << cin marks << r;
     
 
     if (marks > 90 ) {
