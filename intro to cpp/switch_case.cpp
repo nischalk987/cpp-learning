@@ -9,7 +9,9 @@ int main() {
 
     switch (grade)
     {
-    case 'A';
+    case 'A':
+    case 'B':
+    case 'C'
     
     
     default:
