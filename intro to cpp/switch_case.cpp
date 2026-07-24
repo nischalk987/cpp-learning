@@ -9,9 +9,8 @@ int main() {
 
     switch (grade)
     {
-    case 'A:
-        /* code */
-        break;
+    case 'A';
+    
     
     default:
         break;
