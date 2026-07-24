@@ -9,7 +9,7 @@ int main() {
 
     switch (grade)
     {
-    case 'A':
+    case 'A':cout << "90 to 100 "
     case 'B':
     case 'C':
     case 'D':
