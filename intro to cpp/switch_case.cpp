@@ -14,8 +14,7 @@ int main() {
     case 'C':cout << "70 to 80 " << endl;
     case 'D':cout << "60 to 70 " << endl;
     default:
-        cout << "0 to 100 " << endl;
-        break;
+        cout << "0 to 60 " << endl;
     }
 
     return 0 ;
