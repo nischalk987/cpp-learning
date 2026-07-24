@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
 
-    int b
+    int budget;
+    cout
 
 }
