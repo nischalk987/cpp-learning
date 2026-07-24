@@ -11,7 +11,8 @@ int main() {
     {
     case 'A':
     case 'B':
-    case 'C'
+    case 'C':
+    case 'D':
     
     
     default:
