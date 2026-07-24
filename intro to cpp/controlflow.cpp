@@ -60,12 +60,8 @@ int main(){
         }
     }
     else {
-        cout << "DO some workout "
+        cout << "DO some workout " << endl ;
     }
-
-
-
-
     
     return 0 ;
 
