@@ -27,6 +27,7 @@ int main(){
     else if(marks > 80) {
         cout << "B" << endl;
     }
+    else if(marks>)
 
 
     
