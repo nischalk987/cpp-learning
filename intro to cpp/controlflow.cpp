@@ -56,7 +56,7 @@ int main(){
             cout << "You got a good BMI" << endl;
         }
         else {
-            cout
+            cout << "not good BM"
         }
     }
 
