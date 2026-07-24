@@ -30,7 +30,9 @@ int main(){
     else if(marks > 70){
         cout << "C" << endl ;
     }
-    else id
+    else if(marks > 60 ){
+        
+    }
 
 
     
