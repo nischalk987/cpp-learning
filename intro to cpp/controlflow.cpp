@@ -31,7 +31,7 @@ int main(){
         cout << "C" << endl ;
     }
     else if(marks > 60 ){
-        
+        cout << "D" << endl;
     }
 
 
