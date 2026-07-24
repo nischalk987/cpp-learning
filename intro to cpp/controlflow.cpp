@@ -12,6 +12,7 @@ int main(){
         cout << "You can buy scropio" << endl ;
 
     }
-    cout << 
+    
+    return 0 ;
 
 }
