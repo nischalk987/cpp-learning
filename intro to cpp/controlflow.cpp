@@ -22,8 +22,9 @@ int main(){
 
     int marks = 55 ;
     if (marks > 90 ) {
-        cout >> "A" << endl;
+        cout << "A" << endl;
     }
+    else
 
 
     
