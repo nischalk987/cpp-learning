@@ -12,7 +12,7 @@ int main() {
     case 'A':cout << "90 to 100 " << endl;
     case 'B':cout << "80 to 90 " << endl;
     case 'C':cout << "70 to 80 " << endl;
-    case 'D':cout << "60 to 100 " << endl;
+    case 'D':cout << "60 to 70 " << endl;
     default:
         break;
     }
