@@ -21,7 +21,7 @@ int main(){
     //if-else if block 
 
     int marrks= 55 ;
-    
+    if (marks )
 
 
     
