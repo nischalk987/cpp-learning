@@ -34,7 +34,7 @@ int main(){
         cout << "D" << endl;
     }
     else {
-        cout << "F"
+        cout << "F" << endl;
     }
 
 
