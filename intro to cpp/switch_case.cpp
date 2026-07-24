@@ -12,10 +12,14 @@ int main() {
     case 'A':cout << "90 to 100 " << endl;
     break;
     case 'B':cout << "80 to 90 " << endl;
+    break;
     case 'C':cout << "70 to 80 " << endl;
+    break;
     case 'D':cout << "60 to 70 " << endl;
+    break;
     default:
         cout << "0 to 60 " << endl;
+        break;
     }
 
     return 0 ;
