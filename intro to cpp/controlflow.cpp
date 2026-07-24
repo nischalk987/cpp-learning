@@ -6,6 +6,8 @@ int main(){
     int budget;
     cout << "Enter your budget : " << endl;
 
-    
+    cin >> budget ;
+
+    if 
 
 }
