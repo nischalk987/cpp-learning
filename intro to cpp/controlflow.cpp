@@ -23,7 +23,7 @@ int main(){
     int marks;
     
     cout << "Enter yout marks : " << endl;
-    
+    cin >> 
     
 
     if (marks > 90 ) {
