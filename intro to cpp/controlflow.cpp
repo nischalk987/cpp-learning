@@ -8,6 +8,8 @@ int main(){
 
     cin >> budget ;
 
-    if(budget > 200000)
+    if(budget > 2000000) {
+        
+    }
 
 }
