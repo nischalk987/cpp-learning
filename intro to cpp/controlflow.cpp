@@ -8,7 +8,7 @@ int main(){
 
     // cin >> budget ;
 
-    
+    // if - else block 
 
     // if(budget > 2000000) {
     //     cout << "You can buy scropio" << endl ;
@@ -17,6 +17,8 @@ int main(){
     // else {
     //     cout << "you can't buy scropio" << endl; 
     // }
+
+    
 
 
     
