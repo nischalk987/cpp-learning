@@ -1,2 +1,9 @@
 #include<iostream>
-using nam
+using namespace std ; 
+
+int main() {
+
+    
+
+    return 0 ;
+}
