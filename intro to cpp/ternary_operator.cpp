@@ -7,5 +7,5 @@ int main(){
     cout << "Enter your age : " << endl ;
     cin >> age ;
 
-    (age < 18) ? 
+    (age < 18) ? cout << "Your "
 }
