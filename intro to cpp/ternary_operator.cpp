@@ -15,5 +15,5 @@ int main(){
 
     int result = (x>y) ? x : y ;
 
-    cout << "The La"
+    cout << "The Larger value : " << result << endl ;
 }
