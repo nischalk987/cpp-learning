@@ -11,5 +11,7 @@ int main(){
 // 
 
     int x = 10 ;
-    int y = 
+    int y = 20 ;
+
+    
 }
