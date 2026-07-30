@@ -21,8 +21,9 @@ int main() {
 
     for (int i =1 ; i <=5 ; i = i+1) {
         if(i==4){
-            
+            break;
         }
+        cout << ""
     }
 
     return 0 ;
