@@ -14,8 +14,7 @@ int main() {
             continue;
         }
     }
-    cout << ""
-
+    cout << "Iteration " << i << endl;
 
     return 0 ;
 }
