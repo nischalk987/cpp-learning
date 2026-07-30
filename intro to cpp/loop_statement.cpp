@@ -9,7 +9,9 @@ int main() {
 
     //continue keyword
 
-    for (int i = 1 ; i)
+    for (int i = 1 ; i <= 5 ; i = i+1){
+        
+    }
 
 
     return 0 ;
