@@ -13,8 +13,8 @@ int main() {
         if (i==3) {
             continue;
         }
-        cout << "I"
     }
+    cout << ""
 
 
     return 0 ;
