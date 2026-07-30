@@ -3,6 +3,8 @@ using namespace std ;
 
 int main() {
 
+    // for loop
+
     // for (int i = 1; i<=10 ; i=i+1){
     //     cout  << "Hello word " <<  endl; 
     // }
@@ -27,6 +29,8 @@ int main() {
     // }
 
     // while loop 
+
+    
 
     return 0 ;
 }
