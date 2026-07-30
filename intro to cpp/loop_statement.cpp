@@ -30,6 +30,7 @@ int main() {
 
     // while loop 
 
+    int i = 1;
     
 
     return 0 ;
