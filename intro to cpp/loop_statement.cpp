@@ -31,7 +31,9 @@ int main() {
     // while loop 
 
     int i = 1;
-    
+    while (i <= 5) {
+        cout << i 
+    }
 
     return 0 ;
 }
