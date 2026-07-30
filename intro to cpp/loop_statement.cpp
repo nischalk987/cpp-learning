@@ -13,7 +13,7 @@ int main() {
         if (i==3) {
             continue;
         }
-        
+        cout << "I"
     }
 
 
