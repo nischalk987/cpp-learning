@@ -38,7 +38,10 @@ int main() {
     
     // do while loop
 
-    
+    int i = 1 ;
+    do {
+        cout
+    }
 
     return 0 ;
 }
