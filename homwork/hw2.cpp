@@ -7,8 +7,9 @@ int main () {
     //     cout << i << " " ; 
     // }
 
-    // return 0 ; 
 
-    for (int i =100 ; i >=1 ; i = i)
+    for (int i =100 ; i >=1 ; i = i + 1) {
+        cout << i << " ";
+    }
 
 }
