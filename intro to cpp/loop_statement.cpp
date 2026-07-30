@@ -13,8 +13,9 @@ int main() {
         if (i==3) {
             continue;
         }
+        cout << "Iteration " << i << endl;
     }
-    cout << "Iteration " << i << endl;
 
     return 0 ;
 }
+
