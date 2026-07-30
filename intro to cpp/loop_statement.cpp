@@ -7,7 +7,9 @@ int main() {
     //     cout  << "Hello word " <<  endl; 
     // }
 
-    
+    //continue keyword
+
+    for (int i = 1 ; i)
 
 
     return 0 ;
