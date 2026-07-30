@@ -30,11 +30,12 @@ int main() {
 
     // while loop 
 
-    int i = 1;
-    while (i <= 5) {
-        cout << i << " " ;
-        i = i + 1 ;
-    }
+    // int i = 1;
+    // while (i <= 5) {
+    //     cout << i << " " ;
+    //     i = i + 1 ;
+    // }
+    
     
 
     return 0 ;
