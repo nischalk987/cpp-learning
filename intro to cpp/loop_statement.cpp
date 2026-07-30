@@ -26,7 +26,7 @@ int main() {
     //     cout << "Iteration = " << i << endl ; 
     // }
 
-    
+    // while loop 
 
     return 0 ;
 }
