@@ -41,7 +41,8 @@ int main() {
     int i = 1 ;
     do {
         cout << i << " ";
-    }while(i<=100);
+        i = i + 1
+    }while(i<= 5);
 
     return 0 ;
 }
