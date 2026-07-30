@@ -9,6 +9,6 @@ int main () {
 
     // return 0 ; 
 
-    for (int )
+    for (int i =100 ; i >=1 ; i = i)
 
 }
