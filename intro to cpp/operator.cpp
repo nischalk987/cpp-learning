@@ -53,7 +53,9 @@ int main () {
     if (cond1 && cond2 && cond3) {
         cout << "All condition are correct " << endl ;
     }
-    else 
+    else {
+        cout << "All condt"
+    }
 
 
 
