@@ -6,6 +6,6 @@ int main () {
     int a;
     int b;
     cout << "Enter first number : " << " " ;
-    cin >> a
-    cout
+    cin >> a;
+    cout << "Enter "
 }
