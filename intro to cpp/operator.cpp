@@ -12,6 +12,7 @@ int main () {
     cout << "Addition = " << a + b << " " ;
     cout << "subtraction = " << a - b << " " ;
     cout << "multiplication = " << a * b << " " ;
+    cout << "division  = " << a / b << " " ;
     cout << "Addition = " << a + b << " " ;
 
 }
