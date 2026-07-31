@@ -6,7 +6,8 @@ int main () {
     // unary operator
 
     int a = 5 ;
-    cout << (a++)
+    cout << (a++) << endl ;
+    cout << a << endl ;
 
     // Arithmatic operator 
 
