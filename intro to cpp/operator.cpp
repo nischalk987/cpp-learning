@@ -26,12 +26,12 @@ int main () {
 
     // Arithmatic operator 
 
-    // int a;
-    // int b;
-    // cout << "Enter first number : " << " " ;
-    // cin >> a;
-    // cout << "Enter second number : " << " ";
-    // cin >> b ;
+    int a;
+    int b;
+    cout << "Enter first number : " << " " ;
+    cin >> a;
+    cout << "Enter second number : " << " ";
+    cin >> b ;
     // cout << "Addition = " << a + b << endl ;
     // cout << "subtraction = " << a - b << endl ;
     // cout << "multiplication = " << a * b << endl ;
