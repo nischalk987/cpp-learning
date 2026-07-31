@@ -47,7 +47,8 @@ int main () {
     // cout << (a!=b) << endl ;
 
     bool cond1 = true ;
-    
+    bool cond2 = true ;
+    bool cond
 
 
 
