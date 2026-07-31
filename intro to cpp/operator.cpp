@@ -11,8 +11,8 @@ int main () {
     cin >> a;
     cout << "Enter second number : " << " ";
     cin >> b ;
-    cout << "Addition = " << a + b << " " ;
-    cout << "subtraction = " << a - b << " " ;
+    cout << "Addition = " << a + b << endl ;
+    cout << "subtraction = " << a - b << endl ;
     cout << "multiplication = " << a * b << " " ;
     cout << "division  = " << a / b << " " ;
     cout << "modulas = " << a % b << " " ;
