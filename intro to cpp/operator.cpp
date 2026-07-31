@@ -50,7 +50,7 @@ int main () {
     bool cond2 = true ;
     bool cond3 = false ;
 
-    if (con)
+    if (cond1 && cond2 && cond)
 
 
 
