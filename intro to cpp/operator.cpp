@@ -14,7 +14,7 @@ int main () {
     // cout << (++a) << endl; 
     // cout << a << endl; 
 
-    // p
+    // predecrement and post
 
     // Arithmatic operator 
 
