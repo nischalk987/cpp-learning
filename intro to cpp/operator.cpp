@@ -50,7 +50,10 @@ int main () {
     bool cond2 = true ;
     bool cond3 = false ;
 
-    if (cond1 && cond2 && cond3)
+    if (cond1 && cond2 && cond3) {
+        cout << "All condition are correct " << endl ;
+    }
+    else 
 
 
 
