@@ -21,7 +21,7 @@ int main () {
     cout << (a--) << endl ;
     cout << a << endl ; 
 
-    
+    cout << (--a)
 
     // Arithmatic operator 
 
