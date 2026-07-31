@@ -14,7 +14,10 @@ int main () {
     // cout << (++a) << endl; 
     // cout << a << endl; 
 
-    // predecrement and post
+    // predecrement and postdecrement 
+
+    int a = 10 ; 
+    cout << a << endl ;
 
     // Arithmatic operator 
 
