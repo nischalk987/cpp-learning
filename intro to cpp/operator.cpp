@@ -13,8 +13,8 @@ int main () {
     cin >> b ;
     cout << "Addition = " << a + b << endl ;
     cout << "subtraction = " << a - b << endl ;
-    cout << "multiplication = " << a * b << " " ;
-    cout << "division  = " << a / b << " " ;
-    cout << "modulas = " << a % b << " " ;
+    cout << "multiplication = " << a * b << endl ;
+    cout << "division  = " << a / b << endl;
+    cout << "modulas = " << a % b << endl ;
 
 }
