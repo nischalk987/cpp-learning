@@ -39,14 +39,14 @@ int main () {
     // cout << "modulas = " << a % b << endl ;
 
     // Relational operator
-    cout << (a<b) << endl ;
-    cout << (a>b) << endl ;
-    cout << (a==b) << endl ;
-    cout << (a>=b) << endl ;
-    cout << (a<=b) << endl ;
-    cout << (a!=b) << endl ;
+    // cout << (a<b) << endl ;
+    // cout << (a>b) << endl ;
+    // cout << (a==b) << endl ;
+    // cout << (a>=b) << endl ;
+    // cout << (a<=b) << endl ;
+    // cout << (a!=b) << endl ;
 
-    
+
 
     return 0 ;
 
