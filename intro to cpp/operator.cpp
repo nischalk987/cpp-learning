@@ -9,5 +9,5 @@ int main () {
     cin >> a;
     cout << "Enter second number : " << " ";
     cin >> b ;
-    
+    cout << "Addti"
 }
