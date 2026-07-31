@@ -7,12 +7,14 @@ int main () {
 
     // Preincrement and postincrement
 
-    int a = 5 ;
-    cout << (a++) << endl ;
-    cout << a << endl ;
+    // int a = 5 ;
+    // cout << (a++) << endl ;
+    // cout << a << endl ;
 
-    cout << (++a) << endl; 
-    cout << a << endl; 
+    // cout << (++a) << endl; 
+    // cout << a << endl; 
+
+    // p
 
     // Arithmatic operator 
 
