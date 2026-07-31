@@ -22,7 +22,7 @@ int main () {
     cout << a << endl ; 
 
     cout << (--a) << endl ;
-    
+    cout << a << endl ; 
 
     // Arithmatic operator 
 
