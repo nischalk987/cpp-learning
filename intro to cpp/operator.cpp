@@ -11,7 +11,7 @@ int main () {
     cin >> b ;
     cout << "Addition = " << a + b << " " ;
     cout << "subtraction = " << a - b << " " ;
-    cout << "Addition = " << a + b << " " ;
+    cout << "multiplication = " << a * b << " " ;
     cout << "Addition = " << a + b << " " ;
 
 }
