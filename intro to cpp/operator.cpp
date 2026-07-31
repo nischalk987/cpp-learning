@@ -48,7 +48,9 @@ int main () {
 
     bool cond1 = true ;
     bool cond2 = true ;
-    bool cond
+    bool cond3 = false ;
+
+    if (con)
 
 
 
