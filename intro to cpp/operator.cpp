@@ -16,13 +16,13 @@ int main () {
 
     // predecrement and postdecrement 
 
-    int a = 10 ; 
-    cout << a << endl ;
-    cout << (a--) << endl ;
-    cout << a << endl ; 
+    // int a = 10 ; 
+    // cout << a << endl ;
+    // cout << (a--) << endl ;
+    // cout << a << endl ; 
 
-    cout << (--a) << endl ;
-    cout << a << endl ; 
+    // cout << (--a) << endl ;
+    // cout << a << endl ; 
 
     // Arithmatic operator 
 
