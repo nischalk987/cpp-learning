@@ -5,7 +5,7 @@ int main () {
 
     // unary operator
 
-    // Pre
+    // Preincrement and postincrement
 
     int a = 5 ;
     cout << (a++) << endl ;
