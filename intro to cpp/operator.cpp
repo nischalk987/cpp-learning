@@ -3,7 +3,9 @@ using namespace std ;
 
 int main () {
 
-    // una
+    // unary operator
+
+    int a= 
 
     // Arithmatic operator 
 
