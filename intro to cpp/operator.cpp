@@ -46,6 +46,9 @@ int main () {
     // cout << (a<=b) << endl ;
     // cout << (a!=b) << endl ;
 
+    bool cond1 = true ;
+    
+
 
 
     return 0 ;
