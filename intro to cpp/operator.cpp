@@ -10,5 +10,8 @@ int main () {
     cout << "Enter second number : " << " ";
     cin >> b ;
     cout << "Addition = " << a + b << " " ;
-    
+    cout << "subtraction = " << a - b << " " ;
+    cout << "Addition = " << a + b << " " ;
+    cout << "Addition = " << a + b << " " ;
+
 }
