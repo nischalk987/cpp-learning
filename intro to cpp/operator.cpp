@@ -3,6 +3,8 @@ using namespace std ;
 
 int main () {
 
+    // Arithmatic operator 
+
     int a;
     int b;
     cout << "Enter first number : " << " " ;
