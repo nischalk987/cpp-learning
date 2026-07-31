@@ -13,6 +13,6 @@ int main () {
     cout << "subtraction = " << a - b << " " ;
     cout << "multiplication = " << a * b << " " ;
     cout << "division  = " << a / b << " " ;
-    cout << "Addition = " << a + b << " " ;
+    cout << "modulas = " << a % b << " " ;
 
 }
