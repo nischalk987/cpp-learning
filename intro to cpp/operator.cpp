@@ -54,7 +54,7 @@ int main () {
         cout << "All condition are correct " << endl ;
     }
     else {
-        cout << "All condtion are not true " 
+        cout << "All condition are not true " << " " ;
     }
 
 
