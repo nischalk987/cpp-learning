@@ -46,18 +46,27 @@ int main () {
     // cout << (a<=b) << endl ;
     // cout << (a!=b) << endl ;
 
-    bool cond1 = true ;
-    bool cond2 = true ;
+    bool cond1 = false ;
+    bool cond2 = false ;
     bool cond3 = false ;
 
-    if (cond1 && cond2 && cond3) {
-        cout << "All condition are correct " << endl ;
-    }
-    else {
-        cout << "All condition are not true " << " " ;
-    }
+    // And operator 
 
+    // if (cond1 && cond2 && cond3) {
+    //     cout << "All condition are correct " << endl ;
+    // }
+    // else {
+    //     cout << "All condition are not true " << " " ;
+    // }
 
+    // OR operator 
+
+    // if (cond1 || cond2 || cond3) {
+    //     cout << "All condition are correct " << endl ;
+    // }
+    // else {
+    //     cout << "All condition are not true " << " " ;
+    // }
 
     return 0 ;
 
