@@ -1,1 +1,3 @@
-#include<ios
+#include<iostream>
+using namespace std ;
+
