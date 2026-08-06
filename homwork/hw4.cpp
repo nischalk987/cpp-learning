@@ -11,7 +11,7 @@ int main () {
         cout << "The character is a lowercase letter." << endl;
     }
     else {
-        cout << "The character is not a lowercase letter." << endl;
+        cout << "The character is a uppercase  letter." << endl;
     }
 
 }
