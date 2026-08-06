@@ -3,6 +3,8 @@ using namespace std;
 
 int main () {
 
+    // impilicit 
+
     char ch ;
     cout << "Enter a character: " << " ";
     cin >> ch ;
