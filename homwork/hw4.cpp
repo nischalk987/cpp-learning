@@ -17,6 +17,6 @@ int main () {
     // }
 
     int n ;
-    cout << "Enter an integer: ";
+    cout << "Enter an integer: " << " ";
 
 }
