@@ -8,7 +8,8 @@ int main () {
     cin >> ch ;
 
     if (ch >= 'a' && ch <= 'z') {
-        
+        cout << "The character is a lowercase letter." << endl;
     }
+    e
 
 }
