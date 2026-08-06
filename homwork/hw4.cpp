@@ -16,6 +16,7 @@ int main () {
     //     cout << "The character is a uppercase  letter." << endl;
     // }
 
+    int n ;
     
 
 }
