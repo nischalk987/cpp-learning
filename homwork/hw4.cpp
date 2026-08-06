@@ -16,10 +16,10 @@ int main () {
     //     cout << "The character is a uppercase  letter." << endl;
     // }
 
-    int n ;
-    cout << "Enter an integer: " << " ";
-    cin >> n ;
-    (n >= 0) ? cout << "The integer is positive." << endl : cout << "The integer is negative." << endl;
+    // int n ;
+    // cout << "Enter an integer: " << " ";
+    // cin >> n ;
+    // (n >= 0) ? cout << "The integer is positive." << endl : cout << "The integer is negative." << endl;
     
-    return 0 ; 
+    // return 0 ; 
 }
