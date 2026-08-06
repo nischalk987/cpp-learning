@@ -10,6 +10,8 @@ int main () {
     if (ch >= 'a' && ch <= 'z') {
         cout << "The character is a lowercase letter." << endl;
     }
-    e
+    else {
+        cout << "The character is not a lowercase letter." << endl;
+    }
 
 }
