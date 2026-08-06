@@ -19,5 +19,5 @@ int main () {
     int n ;
     cout << "Enter an integer: " << " ";
     cin >> n ;
-    (n >= 0) ? p 
+    (n >= 0) ? "postive" : "negative" ;  
 }
