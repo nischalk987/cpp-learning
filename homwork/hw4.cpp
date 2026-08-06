@@ -26,6 +26,6 @@ int main () {
     int num ;
     while (num <= 5) {
         cout << num << endl ;
-        num = num + 1 
+        num = num + 1 ;
     } 
 }
