@@ -3,7 +3,7 @@ using namespace std;
 
 int main () {
 
-    // impilicit 
+    // impilicit convertion 
 
     char ch ;
     cout << "Enter a character: " << " ";
