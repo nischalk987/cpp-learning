@@ -7,6 +7,6 @@ int main () {
     cout << "Enter a character: " << " ";
     cin >> ch ;
 
-    if
+    if (ch >= 'a' &&)
 
 }
