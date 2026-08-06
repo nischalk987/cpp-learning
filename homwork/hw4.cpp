@@ -22,4 +22,7 @@ int main () {
     // (n >= 0) ? cout << "The integer is positive." << endl : cout << "The integer is negative." << endl;
     
     // return 0 ; 
+
+    int num ;
+    while (num <= 5) {} 
 }
