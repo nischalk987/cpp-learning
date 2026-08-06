@@ -7,7 +7,7 @@ int main () {
     cout << "Enter a character: " << " ";
     cin >> ch ;
 
-    if (ch >= 'a' && ch <= 'z') {
+    if (ch >= 97 && ch <= 'z') {
         cout << "The character is a lowercase letter." << endl;
     }
     else {
