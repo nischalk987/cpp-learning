@@ -7,6 +7,8 @@ int main () {
     cout << "Enter a character: " << " ";
     cin >> ch ;
 
-    if (ch >= 'a' &&)
+    if (ch >= 'a' && ch <= 'z') {
+        
+    }
 
 }
