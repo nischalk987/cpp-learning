@@ -24,5 +24,8 @@ int main () {
     // return 0 ; 
 
     int num ;
-    while (num <= 5) {} 
+    while (num <= 5) {
+        cout << num << endl ;
+        
+    } 
 }
