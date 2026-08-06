@@ -19,7 +19,7 @@ int main () {
     int n ;
     cout << "Enter an integer: " << " ";
     cin >> n ;
-    (n >= 0) ? "postive" : "negative" ; 
+    (n >= 0) ? cout << "The integer is positive." << endl : cout << "The integer is negative." << endl;
     
     return 0 ; 
 }
