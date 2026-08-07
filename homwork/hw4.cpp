@@ -35,5 +35,7 @@ int main () {
     cout << "Enter an integer: " << " ";
     cin >> n ;
     int sum = 0
-    for ()
+    for(int i = 1 ; i <= n ; i++){
+
+    }
 }
