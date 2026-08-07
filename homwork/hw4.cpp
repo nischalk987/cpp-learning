@@ -31,13 +31,13 @@ int main () {
 
 
     // sum of numbers from 1 to n
-    int n ; 
-    cout << "Enter an integer: " << " ";
-    cin >> n ;
-    int sum = 0 ;
-    for(int i = 1 ; i <= n ; i++){
-        sum = sum + i ;
-    }
-    cout << "The sum of numbers from 1 to " << n << " is: " << sum << endl ; 
-    return 0 ; 
+    // int n ; 
+    // cout << "Enter an integer: " << " ";
+    // cin >> n ;
+    // int sum = 0 ;
+    // for(int i = 1 ; i <= n ; i++){
+    //     sum = sum + i ;
+    // }
+    // cout << "The sum of numbers from 1 to " << n << " is: " << sum << endl ; 
+    // return 0 ; 
 }
