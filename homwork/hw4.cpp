@@ -52,4 +52,5 @@ int main () {
             sum = sum + i ;
         }
     }
+    cout << "The sum of all odd numbers from 1 to " << n << " is: " << sum << endl ;
 }
