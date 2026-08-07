@@ -30,5 +30,7 @@ int main () {
     // } 
 
 
+    // sum of numbers from 1 to n
+    int n ; 
     
 }
