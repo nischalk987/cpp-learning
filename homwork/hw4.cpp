@@ -28,5 +28,4 @@ int main () {
         cout << num << endl ;
         num = num + 1 ;
     } 
-    
 }
