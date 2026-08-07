@@ -41,5 +41,7 @@ int main () {
     // cout << "The sum of numbers from 1 to " << n << " is: " << sum << endl ; 
     // return 0 ; 
 
+    int n ; 
+    cout << "Enter an integer: " << " ";
     
 }
