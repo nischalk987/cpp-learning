@@ -33,5 +33,7 @@ int main () {
     // sum of numbers from 1 to n
     int n ; 
     cout << "Enter an integer: " << " ";
-    cin
+    cin >> n ;
+    int sum = 0
+    for ()
 }
