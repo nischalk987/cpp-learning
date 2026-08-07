@@ -41,11 +41,11 @@ int main () {
     // cout << "The sum of numbers from 1 to " << n << " is: " << sum << endl ; 
     // return 0 ; 
 
-    // sum of all odd numbers 1
+    // sum of all odd numbers 1 to N
 
     int n ; 
     cout << "Enter an integer: " << " ";
     cin >> n ;
     int sum=0 ;
-    int 
+    
 }
