@@ -48,6 +48,6 @@ int main () {
     cin >> n ;
     int sum=0 ;
     for(int i=1 ; i<=n ; i++){
-        if(i%2)
+        if(i%2!=0)
     }
 }
