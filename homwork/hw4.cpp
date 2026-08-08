@@ -68,7 +68,10 @@ int main () {
 
     for (int i=2 ; i<= n-1 ; i++){
         bool isPrime = true ;
-        if
+        if(n%i == 0) {
+            isPrime = false ;
+            break ;
+        }
     }
     return 0 ;
 }
