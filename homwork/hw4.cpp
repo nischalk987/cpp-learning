@@ -43,14 +43,27 @@ int main () {
 
     // sum of all odd numbers 1 to N
 
+    // int n ; 
+    // cout << "Enter an integer: " << " ";
+    // cin >> n ;
+    // int sum=0 ;
+    // for(int i=1 ; i<=n ; i++){
+    //     if(i%2!=0){
+    //         sum = sum + i ;
+    //     }
+    // }
+    // cout << "The sum of all odd numbers from 1 to " << n << " is: " << sum << endl ;
+
     int n ; 
-    cout << "Enter an integer: " << " ";
+    cout << "Enter an integer : " << endl ;
     cin >> n ;
-    int sum=0 ;
-    for(int i=1 ; i<=n ; i++){
-        if(i%2!=0){
-            sum = sum + i ;
+    for (int i=2 ; i<=n ; i++){
+        if(n%i == 0) {
+            cout << "Non prime number " << endl ;
+        }
+        else {
+            cout << "Prime number " << endl ;
         }
     }
-    cout << "The sum of all odd numbers from 1 to " << n << " is: " << sum << endl ;
+    return 0 ;
 }
