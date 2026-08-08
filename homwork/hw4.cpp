@@ -73,6 +73,11 @@ int main () {
             break ;
         }
     }
-    if (is)
+    if (isPrime == true) {
+        cout << "The number is prime." << endl ;
+    }
+    else {
+        cout << "The number is not prime." << endl ;
+    }
     return 0 ;
 }
