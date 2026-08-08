@@ -57,13 +57,15 @@ int main () {
     int n ; 
     cout << "Enter an integer : " << endl ;
     cin >> n ;
-    for (int i=2 ; i<=n ; i++){
-        if(n%i == 0) {
-            cout << "Non prime number " << endl ;
-        }
-        else {
-            cout << "Prime number " << endl ;
-        }
-    }
+    // for (int i=2 ; i<=n ; i++){
+    //     if(n%i == 0) {
+    //         cout << "Non prime number " << endl ;
+    //     }
+    //     else {
+    //         cout << "Prime number " << endl ;
+    //     }
+    // }
+
+    for (int )
     return 0 ;
 }
