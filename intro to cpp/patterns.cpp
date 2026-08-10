@@ -82,5 +82,6 @@ int main () {
     //     cout << endl;
     // }
 
-    
+    // Floyd's triangle pattern
+    int n=4
 }
