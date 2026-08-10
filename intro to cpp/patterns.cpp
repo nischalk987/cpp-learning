@@ -24,7 +24,7 @@ int main () {
     // }
 
     int  n =  6 ;
-    for (char i = 1 ; i <=n ; i++) {
+    for (int i = 1 ; i <=n ; i++) {
         for (char j = 'a' ; j<= 'd' ; j++) {
             cout << j  << " " ;
         }
