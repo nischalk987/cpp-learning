@@ -1,2 +1,2 @@
-// Square Patterns
-
+#include<iostream>
+u
