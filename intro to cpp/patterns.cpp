@@ -46,5 +46,6 @@ int main () {
     //     cout << endl ;
     // }
 
-    for 
+    int n = 3 ; 
+    
 }
