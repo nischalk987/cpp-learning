@@ -36,5 +36,5 @@ int main () {
     // 4 5 6
 
     int n = 6 ;
-    for (int i = 1 ; i <=)
+    for (int i = 1 ; i <=n ; i++)
 }
