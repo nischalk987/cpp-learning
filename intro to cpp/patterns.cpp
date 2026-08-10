@@ -83,5 +83,7 @@ int main () {
     // }
 
     // Floyd's triangle pattern
-    int n=4
+    int n = 4 ;
+    int num = 1 ;
+    for(int i=)
 }
