@@ -25,8 +25,8 @@ int main () {
 
     char n = 'd' ;
     for (char i = 'a' ; i <=n ; i++) {
-        for (int j = 1 ; j<=n ; j++) {
-            cout << "*" << " " ;
+        for (int j = 'a' ; j<=n ; j++) {
+            cout << j  << " " ;
         }
         cout << endl ; 
     }
