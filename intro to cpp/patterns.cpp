@@ -46,5 +46,5 @@ int main () {
     //     cout << endl ;
     // }
 
-    
+    for 
 }
