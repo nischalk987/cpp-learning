@@ -90,5 +90,6 @@ int main () {
             cout << j << " " ;
             num ++ ;
         }
+        cout << endl;
     }
 }
