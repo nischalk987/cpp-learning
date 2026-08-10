@@ -23,7 +23,7 @@ int main () {
     //     cout << endl ; 
     // }
 
-    char n = 'd' ;
+    int  n = 'd' ;
     for (char i = 'a' ; i <=n ; i++) {
         for (int j = 'a' ; j<=n ; j++) {
             cout << j  << " " ;
