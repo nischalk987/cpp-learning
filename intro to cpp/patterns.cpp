@@ -5,7 +5,7 @@ int main () {
 
     // Square Patterns 
 
-    n = 4
+    int n = 4 ;
     for(int i = 1 ; i <=n ; i++){
 
     }
