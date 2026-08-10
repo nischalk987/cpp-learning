@@ -16,4 +16,5 @@ int main () {
     // * Paterns 
 
     int n = 6
+    for 
 }
