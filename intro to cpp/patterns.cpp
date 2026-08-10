@@ -23,11 +23,11 @@ int main () {
     //     cout << endl ; 
     // }
 
-    int  n =  6 ;
-    for (int i = 1 ; i <=n ; i++) {
-        for (char j = 'a' ; j<= 'd' ; j++) {
-            cout << j  << " " ;
-        }
-        cout << endl ; 
-    }
+    // int  n =  6 ;
+    // for (int i = 1 ; i <=n ; i++) {
+    //     for (char j = 'a' ; j<= 'd' ; j++) {
+    //         cout << j  << " " ;
+    //     }
+    //     cout << endl ; 
+    // }
 }
