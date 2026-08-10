@@ -93,12 +93,22 @@ int main () {
     //     cout << endl;
     // }
 
+    // int n = 4 ;
+    // char ch = 'A' ;
+    // for(int i=0 ; i <=n ; i++){
+    //     for(int j=0 ; j<=i ; j++) {
+    //         cout << ch << " " ;
+    //         ch ++ ;
+    //     }
+    //     cout << endl;
+    // }
+
     int n = 4 ;
-    char ch = 'A' ;
+    int num = 1 ;
     for(int i=0 ; i <=n ; i++){
         for(int j=0 ; j<=i ; j++) {
-            cout << ch << " " ;
-            ch ++ ;
+            cout << num << " " ;
+            num ++ ;
         }
         cout << endl;
     }
