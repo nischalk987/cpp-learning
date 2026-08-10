@@ -23,8 +23,8 @@ int main () {
     //     cout << endl ; 
     // }
 
-    char n = 6 ;
-    for (char i = "a" ; i <=n ; i++) {
+    char n = 'd' ;
+    for (char i = 'a' ; i <=n ; i++) {
         for (int j = 1 ; j<=n ; j++) {
             cout << "*" << " " ;
         }
