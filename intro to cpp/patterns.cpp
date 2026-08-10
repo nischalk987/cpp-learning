@@ -1,2 +1,6 @@
 #include<iostream>
-u
+uisng namespace std ;
+
+int main () {
+    
+}
