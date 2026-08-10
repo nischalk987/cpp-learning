@@ -51,7 +51,7 @@ int main () {
         char ch = 'A' ;
         for (int j= 0 ; j<n ; j++) {
             cout << ch << " " ;
-            ch = ch + 1 ; 
+            c; 
         }
         cout << endl ;
     }
