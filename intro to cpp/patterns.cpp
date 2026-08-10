@@ -12,4 +12,8 @@ int main () {
     //     }
     //     cout << endl ; 
     // }
+
+    // * Paterns 
+
+    int n = 6
 }
