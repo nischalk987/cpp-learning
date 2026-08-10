@@ -56,5 +56,6 @@ int main () {
     //     cout << endl ;
     // }
 
-    ??
+    // Trianglr pattern 
+    for
 }
