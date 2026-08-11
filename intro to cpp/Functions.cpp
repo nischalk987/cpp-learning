@@ -18,8 +18,9 @@ using namespace std ;
 // }
 
 int sumofdigit(int num ) {
+    int digitsum = 0
     while(num > 0 ) {
-        
+
     }
 }
 
