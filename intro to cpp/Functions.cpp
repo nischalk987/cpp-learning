@@ -36,7 +36,7 @@ int main () {
 
     // cout << "sum of digit : " << sumofdigit(n) << endl ;  
 
-    
+    int 
 
     return 0 ;
 }
