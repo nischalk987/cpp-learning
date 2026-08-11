@@ -29,6 +29,10 @@ using namespace std ;
 //     cout << digitsum ; 
 // }
 
+// Binomial coffeicient 
+
+
+
 int main () {
     
     // int n ; 
