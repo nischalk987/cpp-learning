@@ -17,7 +17,9 @@ using namespace std ;
 //     return fact ;
 // }
 
-int 
+int sumofdigit(int num ) {
+    
+}
 
 int main () {
     
