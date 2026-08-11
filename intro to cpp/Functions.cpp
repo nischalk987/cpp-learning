@@ -9,24 +9,24 @@ using namespace std ;
 //     return sum ;
 // }
 
-// int factorial (int n) {
-//     int fact = 1 ;
-//     for (int i = 1 ; i <= n ; i++) {
-//         fact = fact * i ;
-//     }
-//     return fact ;
-// }
-
-int sumofdigit(int num ) {
-    int digitsum = 0 ;
-    while(num > 0 ) {
-        int lastdigit = num % 10 ;
-        num = num / 10 ;
-        digitsum += lastdigit ;
-
+int factorial (int n) {
+    int fact = 1 ;
+    for (int i = 1 ; i <= n ; i++) {
+        fact = fact * i ;
     }
-    cout << digitsum ; 
+    return fact ;
 }
+
+// int sumofdigit(int num ) {
+//     int digitsum = 0 ;
+//     while(num > 0 ) {
+//         int lastdigit = num % 10 ;
+//         num = num / 10 ;
+//         digitsum += lastdigit ;
+
+//     }
+//     cout << digitsum ; 
+// }
 
 int main () {
     
