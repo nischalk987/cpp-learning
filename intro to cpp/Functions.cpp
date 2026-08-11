@@ -44,7 +44,7 @@ int main () {
     cout << "Enter a r number : " << " ";
     cin >> r ;
 
-    cout << "Binomial coffiecent "
+    cout << "Binomial cofficient : " << factorial
 
     return 0 ;
 }
