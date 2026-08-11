@@ -14,7 +14,7 @@ int factorial (int n) {
     for (int i = 1 ; i < n ; i++) {
         fact = fact * i ;
     }
-    return fact 
+    return fact ;
 }
 
 int main () {
@@ -23,7 +23,7 @@ int main () {
     cout << "Enter a number : " ; 
     cin >> n ; 
 
-    cout << "The sum of first " << n << " numbers is : " << sumofnum(n) << endl ; 
+    cout << "The multiple of first " << n << " numbers is : " << sumofnum(n) << endl ; 
 
     return 0 ;
 }
