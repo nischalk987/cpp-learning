@@ -6,5 +6,5 @@ void sumofnum(int n) {
     for(int i = 1 ; i <= n ; i++) {
         sum += i ; 
     }
-    cout << "The sum of first " << n << " natural numbers is : " << sum << endl ; 
+    return sum ;
 }
