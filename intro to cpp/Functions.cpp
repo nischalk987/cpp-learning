@@ -1,2 +1,6 @@
 #include<iostream>
-using namespace st
+using namespace std ; 
+
+int sumofnum(int a , int b) {
+    
+}
