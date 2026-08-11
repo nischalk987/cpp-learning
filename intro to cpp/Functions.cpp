@@ -25,7 +25,7 @@ int sumofdigit(int num ) {
         digitsum += lastdigit ;
 
     }
-    cout << 
+    cout << digitsum ; 
 }
 
 int main () {
