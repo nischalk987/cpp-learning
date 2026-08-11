@@ -10,7 +10,11 @@ using namespace std ;
 // }
 
 int factorial (int n) {
-    int fact 
+    int fact = 0 ;
+    for (int i = 0 ; i < n ; i++) {
+        fact = fact * i ;
+    }
+    return fact 
 }
 
 int main () {
