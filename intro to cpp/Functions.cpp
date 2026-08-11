@@ -9,7 +9,7 @@ using namespace std ;
 //     return sum ;
 // }
 
-int factorial (int n) {
+int factorial (int n , int r) {
     int fact = 1 ;
     for (int i = 1 ; i <= n ; i++) {
         fact = fact * i ;
@@ -36,7 +36,9 @@ int main () {
 
     // cout << "sum of digit : " << sumofdigit(n) << endl ;  
 
-    int 
+    int n ; 
+    int r ; 
+    cout ()
 
     return 0 ;
 }
