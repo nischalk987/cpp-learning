@@ -43,9 +43,6 @@ int bionomial1(int r) {
         fact = fact * i ;
     }
 }
-int bionomail2(int n , int r) {
-    int fact
-}
 
 int main () {
     
