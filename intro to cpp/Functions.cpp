@@ -31,12 +31,13 @@ using namespace std ;
 
 // Binomial coffeicient 
 
-int bionomial (int n , int r ) {
+int bionomial (int n  ) {
     int fact = 1 ; 
     for (int i = 1 ; i < n ; i++) {
         fact = fact * i ;
     }
 }
+int bionomial  (int )
 
 int main () {
     
