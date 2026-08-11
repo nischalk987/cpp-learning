@@ -43,7 +43,8 @@ int main () {
     cin >> n ;
     cout << "Enter a r number : " << " ";
     cin >> r ;
-    
+
+    cout << ""
 
     return 0 ;
 }
