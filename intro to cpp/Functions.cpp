@@ -31,7 +31,9 @@ using namespace std ;
 
 // Binomial coffeicient 
 
-
+int bionomial (int n , int r ) {
+    
+}
 
 int main () {
     
