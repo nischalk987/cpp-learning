@@ -39,7 +39,7 @@ int main () {
 
     int n ; 
     int r ; 
-    ccout 
+    cout << "Enter a number : " 
 
     return 0 ;
 }
