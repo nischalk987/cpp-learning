@@ -59,7 +59,7 @@ int main () {
     cout << "Enter a r number : " << " ";
     cin >> r ;
 
-    cout << "Binomial cofficient : " << factorial
+    cout << "Binomial cofficient : " << 
 
     return 0 ;
 }
