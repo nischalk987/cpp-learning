@@ -13,7 +13,7 @@ int factorial (int n , int r ) {
     int fact = 1 ;
     for (int i = 1 ; i <= n ; i++) {
         fact = fact * i ;
-        int binomial = (n/r*(n-r)) ;
+        int binomial = fact(n) / fact() ;
     }
     return binomail ;
 }
