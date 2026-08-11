@@ -13,7 +13,7 @@ int factorial (int n , int r ) {
     int fact = 1 ;
     for (int i = 1 ; i <= n ; i++) {
         fact = fact * i ;
-        int bimomial = fact
+        int bimomial = (n/r)
     }
     return fact ;
 }
