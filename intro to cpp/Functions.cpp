@@ -22,9 +22,10 @@ int sumofdigit(int num ) {
     while(num > 0 ) {
         int lastdigit = num % 10 ;
         num = num / 10 ;
-        digit
+        digitsum += lastdigit ;
 
     }
+    cout << 
 }
 
 int main () {
