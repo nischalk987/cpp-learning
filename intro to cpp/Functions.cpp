@@ -39,9 +39,11 @@ int main () {
 
     int n ; 
     int r ; 
-    cout << "Enter a number : " << " ";
+    cout << "Enter a n number : " << " ";
     cin >> n ;
-    cout 
+    cout << "Enter a r number : " << " ";
+    cin >> r ;
+    
 
     return 0 ;
 }
