@@ -9,7 +9,7 @@ using namespace std ;
 //     return sum ;
 // }
 
-int factorial ()
+int factorial (int n) 
 
 int main () {
     
