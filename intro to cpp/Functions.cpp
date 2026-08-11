@@ -38,7 +38,7 @@ int main () {
 
     int n ; 
     int r ; 
-    
+    cout << 
 
     return 0 ;
 }
