@@ -34,7 +34,7 @@ int main () {
     cout << "Enter a number : " ; 
     cin >> n ; 
 
-    cout << "sum of digit : " << su 
+    cout << "sum of digit : " << sumofdigit(n) << endl ;  
 
     return 0 ;
 }
