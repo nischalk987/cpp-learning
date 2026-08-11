@@ -34,7 +34,7 @@ int main () {
     cout << "Enter a number : " ; 
     cin >> n ; 
 
-    cout << "The factorial of " << n << " is : " << factorial(n) << endl ; 
+    cout <<  
 
     return 0 ;
 }
