@@ -23,9 +23,10 @@ int main () {
     cout << "Enter a number : " ; 
     cin >> n ; 
 
-    cout << "The multiple of first " << n << " numbers is : " << sumofnum(n) << endl ; 
+    cout << "The factorial of " << n << " is : " << factorial(n) << endl ; 
 
     return 0 ;
 }
+
 
 
