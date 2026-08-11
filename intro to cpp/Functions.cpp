@@ -40,7 +40,7 @@ int bionomial (int n , int r ) {
         fact = fact * i ;
     }
 
-    cout << ""
+    cout << "Binomial coeffient : " 
 
 }
 
