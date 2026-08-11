@@ -33,7 +33,9 @@ using namespace std ;
 
 int bionomial (int n , int r ) {
     int fact = 1 ; 
-    for (int i = 1 ; i )
+    for (int i = 1 ; i < n ; i++) {
+        
+    }
 }
 
 int main () {
