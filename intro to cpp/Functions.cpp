@@ -37,7 +37,9 @@ int bionomial (int n  ) {
         fact = fact * i ;
     }
 }
-int bionomial  (int )
+int bionomial1(int r) {
+    int fact = 1
+}
 
 int main () {
     
