@@ -103,13 +103,53 @@ int main () {
     //     cout << endl;
     // }
 
+    // int n = 4 ;
+    // char ch = 'A' ;
+    // for(int i=1 ; i <n ; i++){
+    //     for(int j=1 ; j>1 ; j--) {
+    //         cout << ch << " " ;
+    //     }
+    //     cout << endl;
+    // }
+
+    // invented triangle pattern
+
+    // int n = 4 ;
+    // for (int i =0 ; i < n ; i++) {
+    //     for (int j=0 ; j < i ; j++) {
+    //         cout << " " ;
+    //     }
+    //     for (int j=0 ; j < n-i ; j++){
+    //         cout << i+1 << " " ;
+    //     }
+    //     cout << endl ;
+    // }
+
+    // int n = 4 ;
+    // char ch = 'A' ;
+    // for (int i =0 ; i < n ; i++) {
+    //     for (int j=0 ; j < i ; j++) {
+    //         cout << " " ;
+    //     }
+    //     for (int j=0 ; j < n-i ; j++){
+    //         cout << ch << " " ;
+    //     }
+    //     ch++;
+    //     cout << endl ;
+    // }
+
     int n = 4 ;
-    char ch = 'A' ;
-    for(int i=0 ; i <=n ; i--){
-        for(int j=0 ; j>=1 ; j--) {
-            cout << ch << " " ;
-            ch++;
+    for (int i = 0 ; i < n ; i++) {
+        for (int j = 0 ; j < n-i-1 ;  j++) {
+            cout << " " ;
         }
-        cout << endl;
+        for (int j = 1 ; j < i+1 ; j++) {
+            cout << j ;
+        }
+        for (int j = 1 ; j < i-1 ; j++) {
+            cout << j ;
+        }
+        cout << endl ;
     }
+
 }
