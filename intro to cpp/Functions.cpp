@@ -17,6 +17,8 @@ using namespace std ;
 //     return fact ;
 // }
 
+int 
+
 int main () {
     
     int n ; 
