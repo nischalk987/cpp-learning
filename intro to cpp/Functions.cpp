@@ -36,11 +36,6 @@ int bionomial (int n , int r ) {
     for (int i = 1 ; i < n ; i++) {
         fact = fact * i ;
     }
-    for (int i = 1 ; i < r ; i++) {
-        fact = fact * i ;
-    }
-    
-
 }
 
 int main () {
