@@ -59,7 +59,8 @@ int main () {
     cout << "Enter a r number : " << " ";
     cin >> r ;
 
-  bionomial(n)/bionomial1(r) * bionomial(n-r) << endl ;
+    int bio =   bionomial(n)/bionomial1(r) * bionomial(n-r) ;
+    cout << "Bionomail : " << bio << endl ;
 
     return 0 ;
 }
