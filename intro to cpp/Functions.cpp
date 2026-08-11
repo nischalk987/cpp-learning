@@ -39,7 +39,7 @@ int main () {
 
     int n ; 
     int r ; 
-    cout << "Binomial Coefficient : " << factorial()
+    ccout 
 
     return 0 ;
 }
