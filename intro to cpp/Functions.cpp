@@ -9,14 +9,14 @@ using namespace std ;
 //     return sum ;
 // }
 
-int factorial (int n , int r ) {
-    int fact = 1 ;
-    for (int i = 1 ; i <= n ; i++) {
-        fact = fact * i ;
+// int factorial (int n , int r ) {
+//     int fact = 1 ;
+//     for (int i = 1 ; i <= n ; i++) {
+//         fact = fact * i ;
         
-    }
-    return  ;
-}
+//     }
+//     return  ;
+// }
 
 // int sumofdigit(int num ) {
 //     int digitsum = 0 ;
