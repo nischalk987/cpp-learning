@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std ; 
 
-ino_t sumofnum(int n) {
+int sumofnum(int n) {
     int sum = 0 ; 
     for(int i = 1 ; i <= n ; i++) {
         sum += i ; 
@@ -9,5 +9,8 @@ ino_t sumofnum(int n) {
     return sum ;
 }
 
+int main () {
+    
+}
 
 
