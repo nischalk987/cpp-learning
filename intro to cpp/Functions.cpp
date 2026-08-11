@@ -11,6 +11,13 @@ int sumofnum(int n) {
 
 int main () {
     
+    int n ; 
+    cout << "Enter a number : " ; 
+    cin >> n ; 
+
+    cout << "The sum of first " << n << " numbers is : " << sumofnum(n) << endl ; 
+
+    return 0 ;
 }
 
 
