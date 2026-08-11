@@ -15,7 +15,7 @@ int factorial (int n , int r ) {
         fact = fact * i ;
         
     }
-    return binomail ;
+    return  ;
 }
 
 // int sumofdigit(int num ) {
